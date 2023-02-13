@@ -1,0 +1,25 @@
+[
+    {
+        "name": "lsinsulin",
+        "start": 1,
+        "end": 24
+    },
+
+    {
+        "name": "binsulin",
+        "start": 25,
+        "end": 54
+    },
+
+    {
+        "name": "cinsulin",
+        "start": 55,
+        "end": 89
+    },
+
+    {
+        "name": "ainsulin",
+        "start": 90,
+        "end": 110
+    }
+]
