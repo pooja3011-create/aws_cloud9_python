@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# aws_cloud9_python
-scratch python script from AWS Cloud9
-=======
+
          ___        ______     ____ _                 _  ___  
         / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
        / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
@@ -16,4 +13,3 @@ To get started, create some files, play with the terminal,
 or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
 Happy coding!
->>>>>>> 17be9e2 (first commit)
